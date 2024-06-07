@@ -11,4 +11,4 @@ Screenshot:
 
 
 
-            ![WeatherApp](https://github.com/NadeefChowdhury/Tkinter_Weather_App/assets/121111949/a70b2c2f-1b61-492c-810c-b90f68548bfb)
+![WeatherApp](https://github.com/NadeefChowdhury/Tkinter_Weather_App/assets/121111949/a70b2c2f-1b61-492c-810c-b90f68548bfb)
